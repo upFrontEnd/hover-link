@@ -5,4 +5,4 @@
 <img src="./img/screen.png" alt="Project preview">
 
 
-Animation au survol à la fois minimaliste et élégant.git s
+Very simple animation, so UI friendly.
